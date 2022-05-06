@@ -1,4 +1,4 @@
-# Crime in Sacremento, CA
+# Crime in California
 Rutuja Ghawat  
 May 6, 2022
 
